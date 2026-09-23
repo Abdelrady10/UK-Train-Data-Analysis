@@ -72,7 +72,7 @@ The first dashboard focuses on overall ticket purchases and journey behavior.
 - Ticket and journey-related KPIs
 - Railcard filters
 
-![Train Rides Dashboard](images/train-rides-dashboard.png)
+![Train Rides Dashboard](pasted-image.png)
 
 ## 📍 Dashboard 2 – Demand on Station
 
@@ -87,7 +87,7 @@ It includes:
 - Departure station filter
 - Arrival destination filter
 
-![Demand on Station Dashboard](images/demand-on-station.png)
+![Demand on Station Dashboard](pasted-image.png)
 
 ## 💡 Main Insights
 
